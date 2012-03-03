@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppWidgetPicker</string>
+    <string name="widget_picker_title">Виджеты</string>
+    <string name="widget_count">(Виджетов в группе :%d)</string>
+    <string name="foo_widget">Foowidget</string>
+</resources>
